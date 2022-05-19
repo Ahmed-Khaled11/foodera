@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ec068d11.css",
+    "main.js": "./static/js/main.3a09b238.js",
+    "static/js/787.35f14ba0.chunk.js": "./static/js/787.35f14ba0.chunk.js",
+    "static/media/ingredients.png": "./static/media/ingredients.b810024430d376b6bd6d.png",
+    "static/media/header.jpg": "./static/media/header.12c392d279429f82935c.jpg",
+    "static/media/intro.png": "./static/media/intro.91adf8dc0779a423e014.png",
+    "static/media/Explore3.jpg": "./static/media/Explore3.0df4d0d0dda2d436bffc.jpg",
+    "static/media/baked.jpg": "./static/media/baked.580213ab4b0ed0a48210.jpg",
+    "static/media/testimonials1.jpg": "./static/media/testimonials1.960ff282036e3c4e63eb.jpg",
+    "static/media/video.jpg": "./static/media/video.8dac9ee9eb3e67760871.jpg",
+    "static/media/testimonials2.jpg": "./static/media/testimonials2.f6e01ff2a6ae714f244b.jpg",
+    "static/media/Explore1.jpg": "./static/media/Explore1.1defe43a880022701c8d.jpg",
+    "static/media/Explore2.jpg": "./static/media/Explore2.a567a9db1482b99c0fab.jpg",
+    "index.html": "./index.html",
+    "main.ec068d11.css.map": "./static/css/main.ec068d11.css.map",
+    "main.3a09b238.js.map": "./static/js/main.3a09b238.js.map",
+    "787.35f14ba0.chunk.js.map": "./static/js/787.35f14ba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec068d11.css",
+    "static/js/main.3a09b238.js"
+  ]
+}
